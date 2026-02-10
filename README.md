@@ -1,1 +1,1 @@
-# MERN-Stack-Hospital-Management-System-Web-Application
+# Hospital_Management_System
